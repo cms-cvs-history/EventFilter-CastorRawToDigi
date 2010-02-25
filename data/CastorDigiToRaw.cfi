@@ -1,3 +1,0 @@
-module castorRawData = CastorDigiToRaw {
-   untracked InputTag CASTOR = castorDigis
-}
